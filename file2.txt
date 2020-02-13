@@ -12,4 +12,10 @@ change to teammate on remote repository for testing featureeeeeeeeeeeeeeeeeee
 
 
 
+<<<<<<< HEAD
 change by team mate to testing pull with horce 0ikhxns\yucdh
+=======
+
+
+Welcomeeeeeeeeeeeeeeee bacl         on test local dav==
+>>>>>>> your branch id aheadgrom ogirn maser
